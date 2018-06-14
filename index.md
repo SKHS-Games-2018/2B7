@@ -1,7 +1,7 @@
 * [Pierson Arnold]()
 * [Alex Bulaong](https://github.com/alexanderbulaong)
 * [Teggun Campbell]()
-* [Blake Canalla]()
+* [Blake Cannella](https://github.com/GoHard39)
 * [Michael Claus]()
 * [Turner Frost](https://github.com/Turner-Frost)
 * [Gage Garrett](https://github.com/GageGarrett)
