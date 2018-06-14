@@ -14,5 +14,5 @@
 * [Liam Pratt](https://github.com/CaptainLeemo)
 * [Hunter Schwamb](https://github.com/NinjaHunter00)
 * [Josh Teague]()
-* [Ryan Vanden Bos]()
+* [Ryan Vanden Bos](https://github.com/rickyro03)
 * [Robert Weeks](https://github.com/robertweeks2018)
