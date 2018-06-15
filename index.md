@@ -1,4 +1,4 @@
-* [Pierson Arnold]()
+* [Pierson Arnold](https://github.com/Memeji)
 * [Alex Bulaong](https://github.com/alexanderbulaong)
 * [Teggun Campbell]()
 * [Blake Canalla]()
