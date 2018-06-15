@@ -2,7 +2,7 @@
 * [Alex Bulaong](https://github.com/alexanderbulaong)
 * [Teggun Campbell]()
 * [Blake Cannella](https://github.com/GoHard39)
-* [Michael Claus]()
+* [Michael Clauss](https://github.com/PClaussMichael)
 * [Turner Frost](https://github.com/Turner-Frost)
 * [Gage Garrett](https://github.com/GageGarrett)
 * [Bryan Gates](https://github.com/Revo1utionn)
